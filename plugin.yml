@@ -1,0 +1,16 @@
+name: BlockPoints
+main: com.patrickzhong.blockpoints.Main
+version: 0.0.1
+author: ShowbizLocket61
+depend: [MVdWPlaceholderAPI]
+
+commands:
+  dailymine:
+    description: Sets the daily mining reward to the item in your hand, or sets the challenge amount if you specify one.
+    usage: /<command> [amount]
+  bp:
+    description: Open the BlockPoints shop.
+    usage: /<command>
+  points:
+    description: Open the BlockPoints shop.
+    usage: /<command>
